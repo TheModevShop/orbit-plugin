@@ -1,4 +1,4 @@
-# Orbit
+# Orbit for Restaurants
 
 Your restaurant's Orbit in your AI. The plugin adds the Orbit connector (you sign in with Orbit and choose
 your restaurant; there is no key to copy) and Orbit's skills:

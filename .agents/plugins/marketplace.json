@@ -1,11 +1,19 @@
 {
   "name": "orbit",
-  "interface": { "displayName": "Orbit" },
+  "interface": {
+    "displayName": "Orbit for Restaurants"
+  },
   "plugins": [
     {
       "name": "orbit",
-      "source": { "source": "local", "path": "./plugins/orbit" },
-      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "source": {
+        "source": "local",
+        "path": "./plugins/orbit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
       "category": "Business & Operations"
     }
   ]

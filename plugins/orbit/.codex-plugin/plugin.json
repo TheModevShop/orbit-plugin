@@ -1,6 +1,6 @@
 {
   "name": "orbit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Your restaurant's Orbit in your AI: sales, bookings, staffing, the inn and the books through the Orbit connector (sign in with Orbit), with skills for the daily brief, Orbit's questions, and review, pay and price research.",
   "author": {
     "name": "The Modev Shop, LLC",
@@ -13,7 +13,7 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Orbit",
+    "displayName": "Orbit for Restaurants",
     "shortDescription": "Your restaurant, in your AI",
     "longDescription": "Orbit is restaurant and inn intelligence built on the business's own data: Toast sales and bookings, labor, Cloudbeds, QuickBooks and Google Analytics. Sign in with Orbit and choose your restaurant; your AI can then read its numbers and reports, write the daily brief, answer what your team asked Orbit, and research reviews, local pay and competitors' prices. It can't change anything in Toast, Cloudbeds or QuickBooks, and guests' contact details are never shared.",
     "developerName": "The Modev Shop, LLC",

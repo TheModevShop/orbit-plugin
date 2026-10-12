@@ -1,4 +1,4 @@
-# Orbit for Claude, ChatGPT and Codex
+# Orbit for Restaurants: Claude, ChatGPT and Codex
 
 [Orbit](https://orbit.modevshop.com) is restaurant and inn intelligence built on the business's own data:
 Toast sales and bookings, labor, Cloudbeds, QuickBooks and Google Analytics. This repository is the Orbit
