@@ -1,0 +1,9 @@
+{
+  "name": "orbit",
+  "displayName": "Orbit",
+  "version": "1.0.0",
+  "description": "Your restaurant's Orbit in your AI: sales, bookings, staffing, the inn and the books through the Orbit connector (sign in with Orbit), with skills for the daily brief, Orbit's questions, and review, pay and price research.",
+  "author": { "name": "The Modev Shop, LLC", "email": "info@modevshop.com", "url": "https://modevshop.com" },
+  "homepage": "https://orbit.modevshop.com",
+  "keywords": ["restaurant", "hospitality", "toast", "inn", "analytics"]
+}

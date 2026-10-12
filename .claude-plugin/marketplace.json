@@ -1,0 +1,14 @@
+{
+  "name": "orbit",
+  "owner": { "name": "The Modev Shop, LLC", "email": "info@modevshop.com", "url": "https://modevshop.com" },
+  "description": "Orbit: your restaurant's own data in your AI, with the Orbit connector and Orbit's skills.",
+  "plugins": [
+    {
+      "name": "orbit",
+      "source": "./plugins/orbit",
+      "description": "Your restaurant's Orbit in your AI: sales, bookings, staffing, the inn and the books through the Orbit connector (sign in with Orbit), with skills for the daily brief, Orbit's questions, and review, pay and price research.",
+      "category": "business",
+      "homepage": "https://orbit.modevshop.com"
+    }
+  ]
+}

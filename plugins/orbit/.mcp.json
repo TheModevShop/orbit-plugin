@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "orbit": { "type": "http", "url": "https://orbit.modevshop.com/mcp/orbit" }
+  }
+}
