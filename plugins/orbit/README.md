@@ -14,13 +14,14 @@ Disconnect it any time in Orbit → Settings → Connections.
 
 ## Install
 
-- **Claude Code**: `claude plugin marketplace add https://orbit.modevshop.com/plugin/marketplace.json`, then
-  `claude plugin install orbit@orbit`, then `/mcp` → orbit → Authenticate.
+- **Claude Code**: `claude plugin marketplace add TheModevShop/orbit-plugin`, then `claude plugin install orbit@orbit`,
+  then `/mcp` → orbit → Authenticate.
 - **Claude (web, desktop, phone)**: Customize → Connectors → Add → Add custom connector →
   `https://orbit.modevshop.com/mcp/orbit`. Add the skills in Customize → Skills → Upload a skill, from
   `https://orbit.modevshop.com/skills/<name>.zip`.
 - **ChatGPT**: chatgpt.com/plugins → + → Add custom MCP server → `https://orbit.modevshop.com/mcp/orbit`, OAuth.
-- **Codex**: `codex mcp add orbit --url https://orbit.modevshop.com/mcp/orbit`, then `codex mcp login orbit`.
+- **Codex**: `codex plugin marketplace add TheModevShop/orbit-plugin`, then `codex plugin add orbit@orbit`, then
+  `codex mcp login orbit`.
 
 Then ask: "Run the Orbit daily research."
 
